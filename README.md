@@ -34,7 +34,7 @@ The architecture and hyperparameters are kept simple for beginners to understand
 4. Use the trained model to predict the labels of the test dataset.
 
 ## Results
-The trained CNN achieves a competitive accuracy suitable for the introductory nature of this competition. Further improvements can be made by tuning hyperparameters, data augmentation, or using advanced architectures.
+The trained CNN achieves a basic accuracy suitable for the introductory nature of this competition. Further improvements can be made by tuning hyperparameters, data augmentation, or using advanced architectures.
 
 ## Improvements
 - Add data augmentation for better generalization.
